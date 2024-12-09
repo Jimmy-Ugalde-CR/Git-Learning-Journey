@@ -36,5 +36,3 @@ This repository contains my personal notes, exercises, and learnings while takin
 12. [Gist](./12-gist/README.md)
 13. [Fin del curso](./13-fin-curso/README.md)
 14. [Legacy - Ajustes y Seguridad](./14-legacy-seguridad/README.md)
-
-## Repository Structure
